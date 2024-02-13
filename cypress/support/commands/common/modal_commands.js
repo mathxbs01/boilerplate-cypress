@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-import { ModalElement } from "../../../page/elements/modal_elements";
+import { ModalElement } from "../../../elements/modal_elements";
 
 const modalElement = new ModalElement();
 

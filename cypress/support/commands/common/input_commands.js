@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-import { InputElement } from "../../../page/elements/input_elements";
+import { InputElement } from "../../../elements/input_elements";
 
 const inputElements = new InputElement();
 
