@@ -13,7 +13,7 @@ Cenario: TESTE
     Quando limpo os campos "CAMPO"
     E seleciono a opção "OPCAO"
     E seleciono o radio-button "RADIO_BUTTON"
-    Então seleciono o checkbox "CHECKBOX"W
+    Então seleciono o checkbox "CHECKBOX"
     E visualizo a mensagem "MENSAGEM"
 
 Esquema do Cenario: TESTE

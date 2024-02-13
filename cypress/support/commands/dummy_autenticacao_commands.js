@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-import { AutorizacaoService } from "../service/dummy_autenticacao.service";
+import { AutorizacaoService } from "../../service/dummy_autenticacao.service";
 const autorizacaoService = new AutorizacaoService();
 let usuario;
 let token;
