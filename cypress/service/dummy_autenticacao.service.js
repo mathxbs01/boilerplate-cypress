@@ -1,4 +1,4 @@
-// <reference types="cypress"/>
+/// <reference types="cypress"/>
 const APIUrl = Cypress.env("API");
 const API = APIUrl;
 let usuario;
