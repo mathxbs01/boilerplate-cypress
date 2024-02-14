@@ -1,6 +1,6 @@
-# BODYPLATE CYPRESS
+# BOILERPLATE CYPRESS
 
-Apenas um bodyplate para apenas clonar e adaptar conforme o projeto demandar.
+Apenas um boilerplate para apenas clonar e adaptar conforme o projeto demandar.
 
 
 # Pré requisitos
@@ -59,4 +59,4 @@ npm run report-cucumber
 ```
 E para o reporte dos testes CI, será utilizado as tasks “PublishCucumberReport@1” e “PublishTestResults@2”. 
 A task PublishCucumberReport@1 criará um reporte simples, porém com a mesma base do Cucumber-report.
-A task PublishTestResults@2 criará um reporte mais detalhado, contendo alguma informações para métrica dos teste em conjunto com Azure TestPlan.# bodyplate-cypress
+A task PublishTestResults@2 criará um reporte mais detalhado, contendo alguma informações para métrica dos teste em conjunto com Azure TestPlan.
